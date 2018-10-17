@@ -1,0 +1,16 @@
+PODS:
+  - TPHomeModule (0.1.0)
+
+DEPENDENCIES:
+  - TPHomeModule (from `../`)
+
+EXTERNAL SOURCES:
+  TPHomeModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TPHomeModule: 73d1c10be12332fce24336776da4a9b44985300f
+
+PODFILE CHECKSUM: 2302d1ef6034bdc7d9025fb4fa79b06f8442a302
+
+COCOAPODS: 1.6.0.beta.1
